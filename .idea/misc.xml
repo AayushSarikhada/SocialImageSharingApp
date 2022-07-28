@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudio/newsApp/app/src/main/res/drawable/bg_profilepic.xml" value="0.21614583333333334" />
+        <entry key="..\:/AndroidStudio/newsApp/app/src/main/res/drawable/profile.xml" value="0.21614583333333334" />
+        <entry key="..\:/AndroidStudio/newsApp/app/src/main/res/drawable/row.xml" value="0.21614583333333334" />
+        <entry key="..\:/AndroidStudio/newsApp/app/src/main/res/layout/activity_add_file.xml" value="0.2" />
+        <entry key="..\:/AndroidStudio/newsApp/app/src/main/res/layout/activity_forgot_password.xml" value="0.2" />
+        <entry key="..\:/AndroidStudio/newsApp/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/AndroidStudio/newsApp/app/src/main/res/layout/activity_main.xml" value="0.18055555555555555" />
+        <entry key="..\:/AndroidStudio/newsApp/app/src/main/res/layout/activity_signup.xml" value="0.22" />
+        <entry key="..\:/AndroidStudio/newsApp/app/src/main/res/layout/activity_update_profilepic.xml" value="0.2" />
+        <entry key="..\:/AndroidStudio/newsApp/app/src/main/res/layout/activity_user_profile.xml" value="0.22" />
+        <entry key="..\:/AndroidStudio/newsApp/app/src/main/res/layout/row.xml" value="0.2" />
+        <entry key="..\:/AndroidStudio/newsApp/app/src/main/res/xml/provider_paths.xml" value="0.2" />
+        <entry key="..\:/New folder/newsApp-master/app/src/main/res/layout/activity_add_file.xml" value="0.176" />
+        <entry key="..\:/New folder/newsApp-master/app/src/main/res/layout/activity_forgot_password.xml" value="0.2" />
+        <entry key="..\:/New folder/newsApp-master/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/New folder/newsApp-master/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/New folder/newsApp-master/app/src/main/res/layout/activity_signup.xml" value="0.264" />
+        <entry key="..\:/New folder/newsApp-master/app/src/main/res/layout/activity_update_profilepic.xml" value="0.2" />
+        <entry key="..\:/New folder/newsApp-master/app/src/main/res/layout/activity_user_profile.xml" value="0.6" />
+        <entry key="..\:/New folder/newsApp-master/app/src/main/res/layout/contact_activity.xml" value="0.25416666666666665" />
+        <entry key="..\:/New folder/newsApp-master/app/src/main/res/layout/row.xml" value="0.16799999999999998" />
+        <entry key="..\:/New folder/newsApp-master_final/app/src/main/res/drawable-night/ic_outline_share_24_white.xml" value="0.1195" />
+        <entry key="..\:/New folder/newsApp-master_final/app/src/main/res/drawable-night/ic_outline_thumb_up_24_white.xml" value="0.1195" />
+        <entry key="..\:/New folder/newsApp-master_final/app/src/main/res/layout/activity_add_file.xml" value="0.2418478260869565" />
+        <entry key="..\:/New folder/newsApp-master_final/app/src/main/res/layout/activity_forgot_password.xml" value="0.10277777777777777" />
+        <entry key="..\:/New folder/newsApp-master_final/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/New folder/newsApp-master_final/app/src/main/res/layout/activity_update_profilepic.xml" value="0.17708333333333334" />
+        <entry key="..\:/New folder/newsApp-master_final/app/src/main/res/layout/activity_user_profile.xml" value="0.12360688956433637" />
+        <entry key="..\:/New folder/newsApp-master_final/app/src/main/res/layout/custome_dialog.xml" value="0.21195652173913043" />
+        <entry key="..\:/New folder/newsApp-master_final/app/src/main/res/layout/row.xml" value="0.4742468415937804" />
+        <entry key="..\:/New folder/newsApp-master_final/app/src/main/res/layout/row_image_and_desc.xml" value="0.264" />
+        <entry key="..\:/New folder/newsApp-master_final/app/src/main/res/layout/row_only_description.xml" value="0.264" />
+        <entry key="..\:/New folder/newsApp-master_final/app/src/main/res/layout/row_only_image.xml" value="0.264" />
+        <entry key="..\:/New folder/newsApp-master_final/app/src/main/res/layout/row_user_profile.xml" value="0.2418478260869565" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
